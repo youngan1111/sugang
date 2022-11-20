@@ -18,7 +18,7 @@ mui에서 제공하는 테이블을 import해 사용하면 자동으로 mui의 �
 
 또한 전체적인 UI는 한양대 수강신청 사이트의 UI를 참고해서 만들었습니다.
 
-![Untitled](Project%20#1%20Wiki%20b26e5a522f2446238ad9fca9e0e2de81/Untitled%201.png)
+![Untitled](pictures/Untitled%201.png)
 
 ![Untitled](Project%20#1%20Wiki%20b26e5a522f2446238ad9fca9e0e2de81/Untitled%202.png)
 
