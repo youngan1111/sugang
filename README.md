@@ -12,7 +12,7 @@ class 테이블의 class_no는 안쓰인다. class_id는 unique하게 class를 �
 
 [MUI: The React component library you always wanted](https://mui.com/)
 
-![스크린샷 2022-11-15 오후 9.30.37.png](Project%20#1%20Wiki%20b26e5a522f2446238ad9fca9e0e2de81/%25E1%2584%2589%25E1%2585%25B3%25E1%2584%258F%25E1%2585%25B3%25E1%2584%2585%25E1%2585%25B5%25E1%2586%25AB%25E1%2584%2589%25E1%2585%25A3%25E1%2586%25BA_2022-11-15_%25E1%2584%258B%25E1%2585%25A9%25E1%2584%2592%25E1%2585%25AE_9.30.37.png)
+![스크린샷 2022-11-15 오후 9.30.37.png](pictures/%25E1%2584%2589%25E1%2585%25B3%25E1%2584%258F%25E1%2585%25B3%25E1%2584%2585%25E1%2585%25B5%25E1%2586%25AB%25E1%2584%2589%25E1%2585%25A3%25E1%2586%25BA_2022-11-15_%25E1%2584%258B%25E1%2585%25A9%25E1%2584%2592%25E1%2585%25AE_9.30.37.png)
 
 mui에서 제공하는 테이블을 import해 사용하면 자동으로 mui의 테이블 ui를 사용할 수 있습니다.
 
@@ -20,7 +20,7 @@ mui에서 제공하는 테이블을 import해 사용하면 자동으로 mui의 �
 
 ![Untitled](pictures/Untitled%201.png)
 
-![Untitled](Project%20#1%20Wiki%20b26e5a522f2446238ad9fca9e0e2de81/Untitled%202.png)
+![Untitled](pictures/Untitled%202.png)
 
 맨 위 헤더부분에 로그인 버튼이 있고 하단에 탭바를 만들어 여러 페이지를 접속할 수 있게했습니다.
 
@@ -113,139 +113,139 @@ yarn dev
 
 지속적인 트랜잭션이 가능한 인터페이스
 
-![Untitled](Project%20#1%20Wiki%20b26e5a522f2446238ad9fca9e0e2de81/Untitled%203.png)
+![Untitled](pictures/Untitled%203.png)
 
 - 로그아웃시
 
-![Untitled](Project%20#1%20Wiki%20b26e5a522f2446238ad9fca9e0e2de81/Untitled%204.png)
+![Untitled](pictures/Untitled%204.png)
 
 - 학생 로그인시
 
-![Untitled](Project%20#1%20Wiki%20b26e5a522f2446238ad9fca9e0e2de81/Untitled%205.png)
+![Untitled](pictures/Untitled%205.png)
 
 - 관리자 로그인시
 
-![Untitled](Project%20#1%20Wiki%20b26e5a522f2446238ad9fca9e0e2de81/Untitled%206.png)
+![Untitled](pictures/Untitled%206.png)
 
-![Untitled](Project%20#1%20Wiki%20b26e5a522f2446238ad9fca9e0e2de81/Untitled%207.png)
+![Untitled](pictures/Untitled%207.png)
 
 수업번호, 학수번호는 완전일치 검색
 
 교과목명은 like 구문을 이용한 키워드 검색
 
-![Untitled](Project%20#1%20Wiki%20b26e5a522f2446238ad9fca9e0e2de81/Untitled%208.png)
+![Untitled](pictures/Untitled%208.png)
 
 - 관리자 체크하면 관리자 로그인 가능
-  ![Untitled](Project%20#1%20Wiki%20b26e5a522f2446238ad9fca9e0e2de81/Untitled%209.png)
+  ![Untitled](pictures/Untitled%209.png)
 - 학생 정보 조회 검색가능 & 지도교수 조회가능
 
-![Untitled](Project%20#1%20Wiki%20b26e5a522f2446238ad9fca9e0e2de81/Untitled%2010.png)
+![Untitled](pictures/Untitled%2010.png)
 
 - 학생의 금학기 시간표 조회 가능
 
-![Untitled](Project%20#1%20Wiki%20b26e5a522f2446238ad9fca9e0e2de81/Untitled%2011.png)
+![Untitled](pictures/Untitled%2011.png)
 
 - 학생의 성적 조회 가능
 
-![Untitled](Project%20#1%20Wiki%20b26e5a522f2446238ad9fca9e0e2de81/Untitled%2012.png)
+![Untitled](pictures/Untitled%2012.png)
 
 - 학생 학적 변경 가능
 
-![Untitled](Project%20#1%20Wiki%20b26e5a522f2446238ad9fca9e0e2de81/Untitled%2013.png)
+![Untitled](pictures/Untitled%2013.png)
 
 - 과목 조회 가능
 
-![Untitled](Project%20#1%20Wiki%20b26e5a522f2446238ad9fca9e0e2de81/Untitled%2014.png)
+![Untitled](pictures/Untitled%2014.png)
 
 - 과목 증원
 
-![Untitled](Project%20#1%20Wiki%20b26e5a522f2446238ad9fca9e0e2de81/Untitled%2015.png)
+![Untitled](pictures/Untitled%2015.png)
 
 - 과목 수강허용가능(수강신청 조건사항 여기도 똑같이 적용 ex) 동일 시간대, 최대학점 등)
 
-![Untitled](Project%20#1%20Wiki%20b26e5a522f2446238ad9fca9e0e2de81/Untitled%2016.png)
+![Untitled](pictures/Untitled%2016.png)
 
-![Untitled](Project%20#1%20Wiki%20b26e5a522f2446238ad9fca9e0e2de81/Untitled%2017.png)
+![Untitled](pictures/Untitled%2017.png)
 
 - 과목 폐강
 
-![Untitled](Project%20#1%20Wiki%20b26e5a522f2446238ad9fca9e0e2de81/Untitled%2018.png)
+![Untitled](pictures/Untitled%2018.png)
 
-![Untitled](Project%20#1%20Wiki%20b26e5a522f2446238ad9fca9e0e2de81/Untitled%2019.png)
+![Untitled](pictures/Untitled%2019.png)
 
 - course 개설
 
-![Untitled](Project%20#1%20Wiki%20b26e5a522f2446238ad9fca9e0e2de81/Untitled%2020.png)
+![Untitled](pictures/Untitled%2020.png)
 
 - course를 배우는 class 개설 (schema: course ← class)
 
-![Untitled](Project%20#1%20Wiki%20b26e5a522f2446238ad9fca9e0e2de81/Untitled%2021.png)
+![Untitled](pictures/Untitled%2021.png)
 
 - 조건1 & 조건3
 
-![Untitled](Project%20#1%20Wiki%20b26e5a522f2446238ad9fca9e0e2de81/Untitled%2022.png)
+![Untitled](pictures/Untitled%2022.png)
 
 - 조건2 → 수업이 폐강되면 희망,수강신청한 곳에서 삭제
 
-![Untitled](Project%20#1%20Wiki%20b26e5a522f2446238ad9fca9e0e2de81/Untitled%2023.png)
+![Untitled](pictures/Untitled%2023.png)
 
 - OLAP
 
-![Untitled](Project%20#1%20Wiki%20b26e5a522f2446238ad9fca9e0e2de81/Untitled%2024.png)
+![Untitled](pictures/Untitled%2024.png)
 
-![Untitled](Project%20#1%20Wiki%20b26e5a522f2446238ad9fca9e0e2de81/Untitled%2025.png)
+![Untitled](pictures/Untitled%2025.png)
 
-![Untitled](Project%20#1%20Wiki%20b26e5a522f2446238ad9fca9e0e2de81/Untitled%2026.png)
+![Untitled](pictures/Untitled%2026.png)
 
 - 사용자 로그인 / 로그아웃(상단 오른쪽)
 
-![Untitled](Project%20#1%20Wiki%20b26e5a522f2446238ad9fca9e0e2de81/Untitled%2027.png)
+![Untitled](pictures/Untitled%2027.png)
 
-![Untitled](Project%20#1%20Wiki%20b26e5a522f2446238ad9fca9e0e2de81/Untitled%2028.png)
+![Untitled](pictures/Untitled%2028.png)
 
 - 수강 신청
 
-![Untitled](Project%20#1%20Wiki%20b26e5a522f2446238ad9fca9e0e2de81/Untitled%2029.png)
+![Untitled](pictures/Untitled%2029.png)
 
 - 재수강 여부 / 수강취소
 
-![Untitled](Project%20#1%20Wiki%20b26e5a522f2446238ad9fca9e0e2de81/Untitled%2030.png)
+![Untitled](pictures/Untitled%2030.png)
 
 - 희망수업 조회 및 취소 가능
 
-![Untitled](Project%20#1%20Wiki%20b26e5a522f2446238ad9fca9e0e2de81/Untitled%2031.png)
+![Untitled](pictures/Untitled%2031.png)
 
 - 내 시간표 보기
 
-![Untitled](Project%20#1%20Wiki%20b26e5a522f2446238ad9fca9e0e2de81/Untitled%2032.png)
+![Untitled](pictures/Untitled%2032.png)
 
-![Untitled](Project%20#1%20Wiki%20b26e5a522f2446238ad9fca9e0e2de81/Untitled%2033.png)
+![Untitled](pictures/Untitled%2033.png)
 
 - 조건1 (이미 신청한지 체크 후 과거 성적 B0 확인)
 
-![Untitled](Project%20#1%20Wiki%20b26e5a522f2446238ad9fca9e0e2de81/Untitled%2034.png)
+![Untitled](pictures/Untitled%2034.png)
 
 - 조건2 (정원 체크)
 
-![Untitled](Project%20#1%20Wiki%20b26e5a522f2446238ad9fca9e0e2de81/Untitled%2035.png)
+![Untitled](pictures/Untitled%2035.png)
 
 - 조건3 (동일 시간대 체크)
 
-![Untitled](Project%20#1%20Wiki%20b26e5a522f2446238ad9fca9e0e2de81/Untitled%2036.png)
+![Untitled](pictures/Untitled%2036.png)
 
 - 조건4 (최대학점 18점 체크)
 
-![Untitled](Project%20#1%20Wiki%20b26e5a522f2446238ad9fca9e0e2de81/Untitled%2037.png)
+![Untitled](pictures/Untitled%2037.png)
 
-![Untitled](Project%20#1%20Wiki%20b26e5a522f2446238ad9fca9e0e2de81/Untitled%2038.png)
+![Untitled](pictures/Untitled%2038.png)
 
 - E-러닝 강의 시간표 표시 (시간표 하단에 E-러닝 강의 표시)
 
-![Untitled](Project%20#1%20Wiki%20b26e5a522f2446238ad9fca9e0e2de81/Untitled%2039.png)
+![Untitled](pictures/Untitled%2039.png)
 
 - 관리자는 모든 학생들의 시간표를 확인할 수 있다.
 
-![Untitled](Project%20#1%20Wiki%20b26e5a522f2446238ad9fca9e0e2de81/Untitled%2040.png)
+![Untitled](pictures/Untitled%2040.png)
 
 ### 7. (구현시)요구사항 외 추가 기능 및 실행 결과
 
